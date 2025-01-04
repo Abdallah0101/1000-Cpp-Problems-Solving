@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// Struct to store user information
+// Struct to store user information.
 struct Info {
     string firstName; // User's first name
     string lastName;  // User's last name
