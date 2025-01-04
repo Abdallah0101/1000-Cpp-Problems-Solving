@@ -12,8 +12,8 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 08  => Program to Check Passing Status  
 - Problem 09  => Program to Calculate the Sum of Three Numbers  
 - Problem 10  => Program to Calculate the Sum of Three Numbers & Average  
-- Problem 011  =>  
-- Problem 012  =>  
+- Problem 011  => Program to Calculate the Sum of Three Numbers & Average & Status  
+- Problem 012  => Program to Compare Two Numbers and return Max  
 - Problem 013  =>  
 - Problem 014  =>  
 - Problem 015  =>  
