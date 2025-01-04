@@ -11,3 +11,4 @@ Problem 06  => Program to Read and Display User Information
 Problem 07  => Divide a Number by Two  
 Problem 08  => Program to Check Passing Status   
 Problem 09  => Program to Calculate the Sum of Three Numbers   
+Problem 10  => Program to Calculate the Sum of Three Numbers & Average
