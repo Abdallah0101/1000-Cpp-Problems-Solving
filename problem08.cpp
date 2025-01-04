@@ -30,6 +30,6 @@ void printResult(bool result) {
 }
 
 int main() {
-    printResult(isPassed(readMark()));            // Print the result
+    printResult(isPassed(readMark()));            // Print the result.
     return 0;
 }
