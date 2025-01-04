@@ -2,19 +2,19 @@
 A collection of C++ solutions to a variety of programming problems. This repository is designed for learners and developers to enhance their problem-solving skills, practice competitive programming, and explore different algorithms and data structures. Contributions are welcome!
 
 # List
-- Problem 01  => Program to print your name on the screen  
-- Problem 02  => Input and Display: Printing a User's Full Name  
-- Problem 03  => Determine if a Number is Even or Odd  
-- Problem 04  => Hiring Eligibility Program  
-- Problem 05  =>  
-- Problem 06  => Program to Read and Display User Information  
-- Problem 07  => Divide a Number by Two  
-- Problem 08  => Program to Check Passing Status  
-- Problem 09  => Program to Calculate the Sum of Three Numbers  
-- Problem 10  => Program to Calculate the Sum of Three Numbers & Average  
+- Problem 001  => Program to print your name on the screen  
+- Problem 002  => Input and Display: Printing a User's Full Name  
+- Problem 003  => Determine if a Number is Even or Odd  
+- Problem 004  => Hiring Eligibility Program  
+- Problem 005  =>  
+- Problem 006  => Program to Read and Display User Information  
+- Problem 007  => Divide a Number by Two  
+- Problem 008  => Program to Check Passing Status  
+- Problem 009  => Program to Calculate the Sum of Three Numbers  
+- Problem 010  => Program to Calculate the Sum of Three Numbers & Average  
 - Problem 011  => Program to Calculate the Sum of Three Numbers & Average & Status  
 - Problem 012  => Program to Compare Two Numbers and return Max  
-- Problem 013  =>  
+- Problem 013  => program to Compare Three Numbers and return Max   
 - Problem 014  =>  
 - Problem 015  =>  
 - Problem 016  =>  
