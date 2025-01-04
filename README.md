@@ -3,8 +3,8 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 
 # List
 - Problem 001  => Program to print your name on the screen  
-- Problem 002  => Input and Display: Printing a User's Full Name  
-- Problem 003  => Determine if a Number is Even or Odd  
+- Problem 002  => Program to Print a User's Full Name  
+- Problem 003  => Program to determine if a Number is Even or Odd  
 - Problem 004  => Hiring Eligibility Program  
 - Problem 005  => Hiring Eligibility Program & Years of Eligibility  
 - Problem 006  => Program to Read and Display User Information  
