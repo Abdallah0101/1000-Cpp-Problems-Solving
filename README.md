@@ -22,11 +22,11 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 018  => Program to Calculate Circle Area
 - Problem 019  => Program to Calculate Circle Area Through Diameter  
 - Problem 020  => Program to Calculate the Area of a Circle Inscribed in a Square  
-- Problem 021  =>  
-- Problem 022  =>  
-- Problem 023  =>  
-- Problem 024  =>  
-- Problem 025  =>  
+- Problem 021  => Program to Calculate Circle Area Along the Circumference  
+- Problem 022  => Program to Calculate Circle Area Inscribed in an Isosceles Triangle  
+- Problem 023  => Program to Calculate the Area of a Circumscribed Circle Around a Triangle  
+- Problem 024  => Program to Validate Age in a Specified Range  
+- Problem 025  => Program to Validate Age in a Specified Range continuously prompting  
 - Problem 026  =>  
 - Problem 027  =>  
 - Problem 028  =>  
