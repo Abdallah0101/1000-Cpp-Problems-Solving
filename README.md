@@ -6,7 +6,7 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 002  => Input and Display: Printing a User's Full Name  
 - Problem 003  => Determine if a Number is Even or Odd  
 - Problem 004  => Hiring Eligibility Program  
-- Problem 005  =>  
+- Problem 005  => Hiring Eligibility Program & Years of Eligibility  
 - Problem 006  => Program to Read and Display User Information  
 - Problem 007  => Divide a Number by Two  
 - Problem 008  => Program to Check Passing Status  
@@ -15,8 +15,8 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 011  => Program to Calculate the Sum of Three Numbers & Average & Status  
 - Problem 012  => Program to Compare Two Numbers and return Max  
 - Problem 013  => program to Compare Three Numbers and return Max   
-- Problem 014  =>  
-- Problem 015  =>  
+- Problem 014  => Program to Swap Two Numbers  
+- Problem 015  => Program to Calculate the Area of a Rectangle  
 - Problem 016  =>  
 - Problem 017  =>  
 - Problem 018  =>  
