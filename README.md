@@ -4,7 +4,7 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 # List
 Problem 01  => Program to print your name on the screen  
 Problem 02  => Input and Display: Printing a User's Full Name  
-Problem 03  =>  
+Problem 03  => Determine if a Number is Even or Odd 
 Problem 04  =>  
 Problem 05  =>  
 Problem 06  =>  
