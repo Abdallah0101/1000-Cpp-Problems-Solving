@@ -28,6 +28,7 @@ UserInfo readUserInfo() {
 
 // Function to check if the user meets the hiring criteria
 bool isEligible(const UserInfo& userInfo) {
+        // Pass by const reference to avoid copying the struct, improving performance and ensuring the original data isn't modified
     return (userInfo.age > 21 && userInfo.hasDrivingLicense); // Returns true if both conditions are met
 }
 
