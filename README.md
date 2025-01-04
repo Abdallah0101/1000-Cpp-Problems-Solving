@@ -17,11 +17,11 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 013  => program to Compare Three Numbers and return Max   
 - Problem 014  => Program to Swap Two Numbers  
 - Problem 015  => Program to Calculate the Area of a Rectangle  
-- Problem 016  =>  
-- Problem 017  =>  
-- Problem 018  =>  
-- Problem 019  =>  
-- Problem 020  =>  
+- Problem 016  => Program to Calculate Rectangle Area Using Diagonal and Side  
+- Problem 017  => Program to Calculate Triangle Area  
+- Problem 018  => Program to Calculate Circle Area
+- Problem 019  => Program to Calculate Circle Area Through Diameter  
+- Problem 020  => Program to Calculate the Area of a Circle Inscribed in a Square  
 - Problem 021  =>  
 - Problem 022  =>  
 - Problem 023  =>  
