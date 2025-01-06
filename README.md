@@ -27,11 +27,11 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 023  => Program to Calculate the Area of a Circumscribed Circle Around a Triangle  
 - Problem 024  => Program to Validate Age in a Specified Range  
 - Problem 025  => Program to Validate Age in a Specified Range continuously prompting  
-- Problem 026  =>  
-- Problem 027  =>  
-- Problem 028  =>  
-- Problem 029  =>  
-- Problem 030  =>  
+- Problem 026 => Program to Print Numbers from 1 to a Specified Number  
+- Problem 027 => Program to Print Numbers in Reverse Order  
+- Problem 028 => Program to Calculate the Sum of Odd Numbers  
+- Problem 029 => Program to Calculate the Sum of Even Numbers  
+- Problem 030 => Program to Calculate the Factorial of a Positive Number  
 - Problem 031  =>  
 - Problem 032  =>  
 - Problem 033  =>  
