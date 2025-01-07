@@ -1,3 +1,7 @@
+/* 
+ * Calculate monthly installment based on loan amount and months 
+ */
+
 #include <iostream>
 #include <string>
 using namespace std;

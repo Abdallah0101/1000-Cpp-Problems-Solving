@@ -1,3 +1,8 @@
+/*
+ * Check if number is a prime or not.
+ */
+
+
 #include <iostream>
 using namespace std;
 
