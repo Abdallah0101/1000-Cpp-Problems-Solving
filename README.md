@@ -53,26 +53,26 @@ A collection of C++ solutions to a variety of programming problems. This reposit
 - Problem 048 => Calculate monthly installment based on loan amount and months  
 - Problem 049 => Verify ATM PIN with unlimited retries  
 - Problem 050 => Verify ATM PIN with a maximum of 3 attempts
-- Problem 051  =>  
-- Problem 052  =>  
-- Problem 053  =>  
-- Problem 054  =>  
-- Problem 055  =>  
-- Problem 056  =>  
-- Problem 057  =>  
-- Problem 058  =>  
-- Problem 059  =>  
-- Problem 060  =>  
-- Problem 061  =>  
-- Problem 062  =>  
-- Problem 063  =>  
-- Problem 064  =>  
-- Problem 065  =>  
-- Problem 066  =>  
-- Problem 067  =>  
-- Problem 068  =>  
-- Problem 069  =>  
-- Problem 070  =>  
+- Problem 051: Print Multiplication Table from 1 to 10  
+- Problem 052: Print Prime Numbers from 1 to N  
+- Problem 053: Check and Display Perfect Number Status  
+- Problem 054: Print the Perfect Numbers from 1 to N  
+- Problem 055: Print Digits of a Positive Number  
+- Problem 056: Sum of Digits of a Positive Number  
+- Problem 057: Reverse a Positive Number  
+- Problem 058: Count Digit Frequency in a Number  
+- Problem 059: Print the Frequency of All Digits in a Number  
+- Problem 060: Reverse a Given Number  
+- Problem 061: Check If a Number is a Palindrome  
+- Problem 062: Print Inverted Number Pattern  
+- Problem 063: Print Ascending Number Pattern  
+- Problem 064: Print Inverted Letter Pattern  
+- Problem 065: Print Letter Pattern in Ascending Order  
+- Problem 066: Generate Words from AAA to ZZZ  
+- Problem 067: Brute Force Password Guessing  
+- Problem 068: Text Encryption and Decryption  
+- Problem 069: Random Number Generator  
+- Problem 070: Generate Random Characters  
 - Problem 071  =>  
 - Problem 072  =>  
 - Problem 073  =>  
