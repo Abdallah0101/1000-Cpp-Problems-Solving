@@ -1,6 +1,3 @@
-
-cpp
-Copy code
 /*
  * Random Key Generator
  * This program generates a specified number of random keys in the format XXXX-XXXX-XXXX-XXXX.
