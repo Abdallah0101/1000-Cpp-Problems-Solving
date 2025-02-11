@@ -16,18 +16,18 @@ int generateRandomNumber(int from, int to) {
 }
 
 // Fills a matrix with random numbers
-void fillMatrixWithRandomNumbers(int matrix[3][3], short rows, short cols) {
-    for (short i = 0; i < rows; i++) {
-        for (short j = 0; j < cols; j++) {
+void fillMatrixWithRandomNumbers(int matrix[3][3]) {
+    for (short i = 0; i < 3; i++) {
+        for (short j = 0; j < 3; j++) {
             matrix[i][j] = generateRandomNumber(1, 100);
         }
     }
 }
 
 // Prints the matrix in a structured format
-void printMatrix(int matrix[3][3], short rows, short cols) {
-    for (short i = 0; i < rows; i++) {
-        for (short j = 0; j < cols; j++) {
+void printMatrix(int matrix[3][3]) {
+    for (short i = 0; i < 3; i++) {
+        for (short j = 0; j < 3; j++) {
             cout << setw(3) << matrix[i][j] << " ";
         }
         cout << "\n";
@@ -42,10 +42,10 @@ int main() {
 
     int matrix[3][3];
 
-    fillMatrixWithRandomNumbers(matrix, 3, 3);
+    fillMatrixWithRandomNumbers(matrix);
 
     cout << "\nThe following is a 3x3 random matrix:\n";
-    printMatrix(matrix, 3, 3);
+    printMatrix(matrix);
 
     return 0;
 }
